@@ -48,6 +48,11 @@ textAlign(CENTER,CENTER)
   videoLayer.clear();
   videoLayer.image(capture, 0, 0, 700, 700);
 
+  //gif of model
+  gif = createImg("pjs_7.gif");
+  gif.position(200, 300);
+  gif.size(1000, 1000);
+  gif.position((windowWidth - 200) / 2, 150);
 
 const margin = 200;
 const lineHeight = 80;
