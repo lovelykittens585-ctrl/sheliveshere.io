@@ -32,7 +32,7 @@ placeholder = createImg("PLACEHOLDER.jpg", windowWidth, windowHeight);
  //captures video
   capture = createCapture(VIDEO, { flipped: true });
   capture.size(160, 160);
-  capture.position(80, 10);
+  capture.position(80, 650);
   capture.hide
 
 words5_random = random(words5); 
