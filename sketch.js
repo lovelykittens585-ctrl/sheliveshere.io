@@ -84,7 +84,7 @@ canvas.position(0, 0);
   //photo.position(500, 500);
  // photo.style("z-index", "-2");
 
-  me = createImg("Passport photo.png") 
+  me = createImg("mee photo.png") 
   me.size (500,500)
   me.position(650, 800);
   me.style("z-index", "-2");
