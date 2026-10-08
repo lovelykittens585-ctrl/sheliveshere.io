@@ -43,11 +43,11 @@ canvas.position(0, 0);
     //create button here[window]
 
     windowButton = createButton("WINDOW");
-    windowButton.position(1000, 2000);
-    windowButton.size(200,300)
-    windowButton.style("background-color",'white')
+    windowButton.position(1000, 1500);
+    windowButton.size(500,600)
+    windowButton.style("background-image", "url('window.png')")
     windowButton.style("border-radius", "30px")
-    windowButton.style("font-size", "18px")
+    windowButton.style("font-size", "30px")
   windowButton.mousePressed(() => {
   window.location.href = "window.html";
 });
@@ -57,10 +57,10 @@ canvas.position(0, 0);
 
     bedButton = createButton("BED");
     bedButton.position(700, 2500);
-    bedButton.size(200,300)
-    bedButton.style("background-color",'white')
+    bedButton.size(500,500)
+    bedButton.style("background-image", "url('bed.png')")
     bedButton.style("border-radius", "30px")
-    bedButton.style("font-size", "18px")
+    bedButton.style("font-size", "30px")
   bedButton.mousePressed(() => {
   window.location.href = "bed.html";
 });
