@@ -4,6 +4,8 @@ var me = "ascii-text-art.png"
 let capture;
 let snapButton;
 let video
+let windowButton
+let bedButton
 
 let snapped = false;
 let snapped_2 = false;
@@ -28,6 +30,8 @@ function takeSnap() {
 function setup() {
 const canvas = createCanvas(6000, 6000);
 canvas.position(0, 0);
+// Set the cursor to hands: 
+      cursor("hands_cursor.png", 20, 6000);
  
   textSize(random(20,60))
   frameRate(2.5)
@@ -38,13 +42,28 @@ canvas.position(0, 0);
 
     //create button here[window]
 
-
-
+    windowButton = createButton("WINDOW");
+    windowButton.position(1000, 2000);
+    windowButton.size(200,300)
+    windowButton.style("background-color",'white')
+    windowButton.style("border-radius", "30px")
+    windowButton.style("font-size", "18px")
+  windowButton.mousePressed(() => {
+  window.location.href = "window.html";
+});
 
 
     //creates button here[door]
 
-
+    bedButton = createButton("BED");
+    bedButton.position(700, 2500);
+    bedButton.size(200,300)
+    bedButton.style("background-color",'white')
+    bedButton.style("border-radius", "30px")
+    bedButton.style("font-size", "18px")
+  bedButton.mousePressed(() => {
+  window.location.href = "bed.html";
+});
     
 
 
@@ -96,13 +115,12 @@ function draw() {
   background(255, 0, 255);
   clear()
  
-  clear()
+  
     textAlign(CENTER,CENTER)
     stroke(0)
     fill('yellow')
     noTint()
-    // Set the cursor to hands: 
-      cursor("hands_cursor.png", 20, 6000);
+    
   
 
   
