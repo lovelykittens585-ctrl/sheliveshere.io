@@ -1,13 +1,5 @@
-var ss
-var photo = "ascii-art.png"
-var me = "ascii-text-art.png"
 
-
-const words = ["I need to get bolder.", "I need to go outside of myself, ", "I need more audacity, ", "I need to do more than think, ", "I need to kill myself and start all over again.",  "I need to invade my privacy,", "I need to be honest, ", "I need to be meaner, ", "I need to exist somewhere that’s not here."]
-
-var every = "BITCH YOU COULD NEVER"
-
-
+const words = ["mind ur manners"]
 
 function setup() {
 const canvas = createCanvas(windowWidth, windowHeight);
