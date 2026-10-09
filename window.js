@@ -20,7 +20,7 @@ function setup() {
 const canvas = createCanvas(windowWidth, windowHeight);
 canvas.position(0, 0);
 //replace with photoshoot image
-placeholder = createImg("PLACEHOLDER.jpg", 60000, 60000);
+placeholder = createImg("PLACEHOLDER.jpg", windowWidth, windowHeight);
 
  
   textSize(20)
