@@ -108,6 +108,7 @@ canvas.position(0, 0);
   me.size (500,500)
   me.position(650, 800);
   me.style("z-index", "-2");
+  
 
 }
 
@@ -121,8 +122,18 @@ function draw() {
     stroke(0)
     fill('yellow')
     noTint()
-    
-  
+
+  //test
+  const asciiArt = `
+ _________________
+< Hello, JavaScript! >
+ -----------------
+        \\   ^__^
+         \\  (oo)\\_______
+            (__)\\       )\\/\\
+                ||----w |
+                ||     ||
+`;
 
   
     // Draw the webcam to the off-screen layer
