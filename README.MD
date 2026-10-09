@@ -6,14 +6,15 @@
  <br>
  she won't always live here, but that's what i'm for
  <br>
- we're roomates
+ we're roommates 
  <br>
- we can't live without one another. 
+we don't see each other much though 
  </p>
 
 
  <p>
- navigate each room by clicking the links.
- be sure to say hello and goodbye
+ navigate each room by clicking the buttons, there's also some memories to click on as well. 
+
+
  </p>
 # sheliveshere.io
