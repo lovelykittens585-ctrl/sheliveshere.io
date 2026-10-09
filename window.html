@@ -3,7 +3,7 @@
   <head>
     <script src="https://cdn.jsdelivr.net/npm/p5@2.3.2/lib/p5.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/p5.sound@0.4.1/dist/p5.sound.min.js"></script>
-    
+    <link rel="stylesheet" href="style.css">
     
     <style>
     .ascii-art {
@@ -20,6 +20,26 @@
       z-index: 1;
       pointer-events: none;
     }
+      body {
+    /* Set the background image source */
+    background-image: url('PLACEHOLDER.jpg');
+
+    /* Scale the image to cover the entire container */
+    background-size: cover;
+
+    /* Center the image horizontally and vertically */
+    background-position: center center;
+
+    /* Prevent the image from repeating like a tile */
+    background-repeat: no-repeat;
+
+    /* Keep the background fixed during page scroll (Optional) */
+    background-attachment: fixed;
+
+    /* Ensure the body spans the full height of the viewport */
+    min-height: 100vh;
+    margin: 0;
+}
   </style>                                                                                                     <div class="ascii-art">
       <pre>                                                                                                                                                         
         1 in 9 chance to get "co-pilot is annoying as fuck" in the text output.
