@@ -1,5 +1,5 @@
 
-const words = ["mind ur manners"]
+const thanks = ["if you make it here, zeniya says hiiii!! Also, this project means a lot to me, it was so fun working on it. I intend on adding much more", "much thanks to kai, daniela and laurenne"]
 
 function setup() {
 const canvas = createCanvas(windowWidth, windowHeight);
