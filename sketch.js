@@ -54,9 +54,4 @@ function draw() {
     stroke(0)
     fill('yellow')
     noTint()
-// Set the cursor to hands: 
-      cursor("hands_cursor.png", 20, 6000);
-
-
-  
 }
