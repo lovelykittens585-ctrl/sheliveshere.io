@@ -18,7 +18,7 @@ var every = "I have cute curtains <3"
 
 function setup() {
 const canvas = createCanvas(windowWidth, windowHeight);
-//canvas.position(0, 0);
+canvas.position(0, 0);
 
 
  
@@ -40,7 +40,7 @@ words5_random = random(words5);
 
 
 function draw() {
-  //background-image("placeholder", windowWidth, windowHeight);
+  background-image("placeholder", windowWidth, windowHeight);
   clear()
 textAlign(CENTER,CENTER)
     // Draw the webcam to the off-screen layer
