@@ -4,6 +4,7 @@ const words = ["mind ur manners"]
 function setup() {
 const canvas = createCanvas(windowWidth, windowHeight);
 canvas.position(0, 0);
+ canvas.style("z-index", "0");
 
  
   textSize(random(20,60))
@@ -12,7 +13,7 @@ canvas.position(0, 0);
    
 
     //create button here[window]
-
+    windowButton.style("z-index", "10");
     windowButton = createButton("WINDOW");
     windowButton.position(1000, 1500);
     windowButton.size(500,600)
@@ -25,7 +26,7 @@ canvas.position(0, 0);
 
 
     //creates button here[bed]
-
+    bedButton.style("z-index", "10");
     bedButton = createButton("BED");
     bedButton.position(700, 2500);
     bedButton.size(500,500)
