@@ -53,7 +53,7 @@ canvas.position(0, 0);
 });
 
 
-    //creates button here[door]
+    //creates button here[bed]
 
     bedButton = createButton("BED");
     bedButton.position(700, 2500);
@@ -103,6 +103,7 @@ canvas.position(0, 0);
   //photo.position(500, 500);
  // photo.style("z-index", "-2");
 
+ //change to model possibly? 
   me = createImg("mee photo.png") 
   me.size (500,500)
   me.position(650, 800);
