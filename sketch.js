@@ -13,26 +13,28 @@ canvas.position(0, 0);
    
 
     //create button here[window]
-    windowButton.style("z-index", "10");
     windowButton = createButton("WINDOW");
+    windowButton.style("z-index", "10");
     windowButton.position(1000, 1500);
     windowButton.size(500,600)
     windowButton.style("background-image", "url('window.png')")
     windowButton.style("border-radius", "30px")
     windowButton.style("font-size", "30px")
-  windowButton.mousePressed(() => {
+    
+    windowButton.mousePressed(() => {
   window.location.href = "window.html";
 });
 
 
     //creates button here[bed]
-    bedButton.style("z-index", "10");
     bedButton = createButton("BED");
+    bedButton.style("z-index", "10");
     bedButton.position(700, 2500);
     bedButton.size(500,500)
     bedButton.style("background-image", "url('bed.png')")
     bedButton.style("border-radius", "30px")
     bedButton.style("font-size", "30px")
+    
   bedButton.mousePressed(() => {
   window.location.href = "bed.html";
 });
@@ -58,4 +60,3 @@ function draw() {
 
   
 }
-
