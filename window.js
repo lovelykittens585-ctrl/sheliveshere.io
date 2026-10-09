@@ -17,10 +17,10 @@ var every = "I have cute curtains <3"
 
 
 function setup() {
-const canvas = createCanvas(windowWidth, windowHeight);
-canvas.position(0, 0);
+//const canvas = createCanvas(windowWidth, windowHeight);
+//canvas.position(0, 0);
 //replace with photoshoot image
-placeholder = createImg("PLACEHOLDER.jpg", windowWidth, windowHeight);
+//placeholder = createImg("PLACEHOLDER.jpg", windowWidth, windowHeight);
 
  
   textSize(20)
