@@ -2,7 +2,7 @@
 
  <p> of course, she lives here too. same as i do.
  <br> 
-    &emsp; &emsp; &emsp; &emsp;    she has a <b>front door</b>, <b>window</b> and <b>bed</b>.
+    &emsp; &emsp; &emsp; &emsp;    she has a <b><a href="frontdoor.html">front door</a></b>, <b>window</b> and <b>bed</b>.
  <br>
  <br>
  she won't always live here, but that's what i'm for
@@ -85,6 +85,6 @@
            ↑↑↑  ↑↑↑↑↑      ↑↑↑    ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑                             ↑↑↑      ↑↑↑↑↑↑ ↑↑                      
                ↑↑ ↑↑↑↑↑      ↑↑↑↑↑↑↑↑  ↑↑↑↑↑                                             ↑↑↑↑↑↑↑↑↑↑                       
              ↑     ↑  ↑ ↑↑↑↑          ↑↑                                            ↑↑  ↑↑    ↑↑↑                         
-               ↑↑↑↑↑↑↑ ↑   ↑↑↑↑↑                                                          ↑    ↑↑                         
+               ↑↑↑↑↑↑↑ ↑   ↑↑↑↑↑                                                         ↑    ↑↑                         
                            ↑↑↑↑↑  ↑                                                    ↑↑      ↑↑                         
 
