@@ -15,7 +15,8 @@
 
 &emsp;&emsp;&emsp;&emsp; we don't see each other much though 
  </p>
- <a href="frontdoor.html">frontdoor</a>
+ 
+ <br>
 
 
                         ↑   ↑↑↑↑↑↑↑↑↑↑    ↑↑↑↑↑↑            ↑↑ ↑     ↑↑↑↑↑         ↑↑↑↑↑↑                                 
@@ -24,9 +25,8 @@
             ↑         ↑↑↑↑↑  ↑↑↑↑↑↑↑↑       ↑↑↑       ↑↑↑↑↑↑ ↑↑ ↑↑  ↑↑ ↑↑    ↑↑↑↑    ↑↑  ↑                                
             ↑       ↑             ↑      ↑↑↑↑    ↑   ↑       ↑↑       ↑↑ ↑↑   ↑↑    ↑↑   ↑                                
             ↑↑          ↑↑↑↑↑↑↑↑↑     ↑↑↑↑     ↑↑  ↑↑           ↑↑↑↑  ↑↑↑ ↑↑ ↑         ↑↑↑                                
-            ↑↑      ↑↑↑↑↑↑↑  ↑↑↑    ↑↑↑ navigate each room by clicking the buttons, 
-            there's also some memories to click on as well. 
-
+            ↑↑      ↑↑↑↑↑↑↑  ↑↑↑    ↑↑↑ explore other rooms by clicking the buttons, 
+                there's also some memories to click on as well. 
              she can see u so don't be rude!      ↑↑  ↑↑  ↑↑  ↑↑↑↑↑↑↑ ↑↑↑  ↑↑↑  ↑        ↑  ↑↑↑                               
              ↑     ↑↑↑↑↑↑↑↑  ↑↑↑  ↑↑↑    ↑    ↑  ↑↑ ↑↑↑↑  ↑↑↑↑↑↑↑↑ ↑↑↑  ↑↑↑ ↑             ↑  ↑ ↑                          
              ↑  ↑↑ ↑↑↑↑↑↑↑↑↑ ↑↑           ↑  ↑  ↑   ↑↑ ↑  ↑ ↑ ↑↑↑↑  ↑↑↑   ↑↑↑          ↑  ↑↑↑                             
@@ -84,10 +84,7 @@
            ↑  ↑↑↑↑↑      ↑    ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑ ↑↑↑                        ↑↑↑↑     ↑↑↑ ↑↑↑↑↑↑↑↑↑ ↑↑                   
            ↑↑↑  ↑↑↑↑↑      ↑↑↑    ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑                             ↑↑↑      ↑↑↑↑↑↑ ↑↑                      
                ↑↑ ↑↑↑↑↑      ↑↑↑↑↑↑↑↑  ↑↑↑↑↑                                             ↑↑↑↑↑↑↑↑↑↑                       
-                ↑↑↑↑ ↑↑↑↑↑                                                            ↑↑↑↑↑↑ ↑↑↑↑↑ ↑                      
              ↑     ↑  ↑ ↑↑↑↑          ↑↑                                            ↑↑  ↑↑    ↑↑↑                         
                ↑↑↑↑↑↑↑ ↑   ↑↑↑↑↑                                                          ↑    ↑↑                         
                            ↑↑↑↑↑  ↑                                                    ↑↑      ↑↑                         
-
-
 
