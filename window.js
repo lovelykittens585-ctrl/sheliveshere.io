@@ -40,8 +40,8 @@ words5_random = random(words5);
 
 
 function draw() {
-  //background-image("placeholder", windowWidth, windowHeight);
-  clear()
+  background-color(white)
+  //clear()
 textAlign(CENTER,CENTER)
     // Draw the webcam to the off-screen layer
   videoLayer.clear();
