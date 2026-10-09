@@ -2,13 +2,18 @@
 
  <p> of course, she lives here too. same as i do.
  <br> 
- she has a <b>front door</b>, <b>window</b> and <b>bed</b>.
+    &emsp; &emsp; &emsp; &emsp;    she has a <b>front door</b>, <b>window</b> and <b>bed</b>.
+ <br>
  <br>
  she won't always live here, but that's what i'm for
  <br>
  we're roommates 
  <br>
-we don't see each other much though 
+ <br>
+ <br>
+
+
+&emsp;&emsp;&emsp;&emsp; we don't see each other much though 
  </p>
 
  <p>
@@ -18,4 +23,15 @@ we don't see each other much though
     she can see u so don't be rude!
 
  </p>
-# sheliveshere.io
+
+<pre>
+
+
+
+
+
+
+
+
+</pre>
+
