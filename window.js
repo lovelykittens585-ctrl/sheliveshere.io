@@ -17,10 +17,7 @@ var every = "I have cute curtains <3"
 
 
 function setup() {
-window.addEventListener('DOMContentLoaded', () => {
-    const canvas = document.getElementById('myCanvas');
-    const ctx = canvas.getContext('2d');
-
+createCanvas(windowWidth, windowHeight);
  
   textSize(20)
   frameRate(1)
@@ -41,7 +38,7 @@ words5_random = random(words5);
 
 function draw() {
   //background-color(white)
-  //clear()
+  clear();
 textAlign(CENTER,CENTER)
     // Draw the webcam to the off-screen layer
   videoLayer.clear();
