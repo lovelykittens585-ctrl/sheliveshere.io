@@ -4,10 +4,10 @@ let videoLayer;
 let placeholder = "PLACEHOLDER.jpg"
 
 //add new arrays
-const words = ["odon't mind the mess, i haven't put my clothes up"]
+const words = ["don't mind the mess, i haven't put my clothes up"]
 const words2 = ["snoozeeeee"]
 const words3 = ["i think you can really be yourself in your room, its a sacred, private, space"]
-const words4 = ["all my faveorite things live here"]
+const words4 = ["all my favorite things live here"]
 const words5 = ["no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress"]
 
 
@@ -46,6 +46,8 @@ textAlign(CENTER,CENTER)
   gif.position(200, 700);
   gif.size(1000, 1000);
   gif.position((windowWidth - 200) / 2, 150);
+
+
   
 
 const margin = 200;
@@ -56,11 +58,14 @@ for (let i = 0; i < words.length; i++) {
   text(words[i], margin, margin + 50 + i * lineHeight, width - margin * 2, lineHeight);
   text(words2[i], 100, 20 + 50 + i * lineHeight, width - margin * 2, lineHeight);
   text(words3[i], 200, 40 + 50 + i * lineHeight, width - margin * 2, lineHeight);
-  text(words4[i], 300, 700 + 50 + i * lineHeight, width - margin * 2, lineHeight);
+  text(words4[i], 500, 700 + 50 + i * lineHeight, width - margin * 2, lineHeight);
   text(words5_random, 100, 250 + 50 + i * lineHeight, width - margin * 2, lineHeight);
 
   }
 
+
+
+  
 }
 
    

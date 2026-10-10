@@ -3,6 +3,14 @@
   <head>
     <script src="https://cdn.jsdelivr.net/npm/p5@2.3.2/lib/p5.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/p5.sound@0.4.1/dist/p5.sound.min.js"></script>
+    <script>
+   document.addEventListener("DOMContentLoaded", () => {
+    const audioPlayer = document.getElementById("audioPlayer");
+    const playButton = document.getElementById("playButton");
+
+    playButton.addEventListener("click", () => audioPlayer.play());
+  });
+ </script>
      <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BED</title>
@@ -25,12 +33,22 @@
         position: absolute;
         top: 0;
         left: 0;
-        z-index: 1;
+        z-index: 2;
         pointer-events: none;
+      }
+      #playButton {
+        position: fixed;
+        top: 400px;
+        left: 40px;
+        z-index: 2;
+        background-color: rgb(255, 0, 191);
+        font-size: medium;
       }
     </style>
   </head>
   <body>
+
+
     <div class="ascii-art">
       <pre>
        <br>
@@ -90,5 +108,9 @@
     </div>
     <main></main>
     <script src="bed.js"></script>
+        <button id="playButton">turn some music on</button>
+ <audio id="audioPlayer" src=
+"A Call from My Dream.mp3"></audio>
+
   </body>
 </html>
