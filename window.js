@@ -46,7 +46,7 @@ textAlign(CENTER,CENTER)
 
   //gif of model
   gif = createImg("pjs_7.gif");
-  gif.position(200, 300);
+  gif.position(200, 700);
   gif.size(1000, 1000);
   gif.position((windowWidth - 200) / 2, 150);
   
