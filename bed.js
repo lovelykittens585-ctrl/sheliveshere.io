@@ -54,9 +54,6 @@ textAlign(CENTER,CENTER)
 const margin = 200;
 const lineHeight = 80;
 
-textSize(30);
-text(welcome, 70, 20);
-
 
 
 for (let i = 0; i < words.length; i++) {
