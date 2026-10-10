@@ -67,7 +67,11 @@ for (let i = 0; i < words.length; i++) {
 }
 
    
+  //i get very little light in my apartment. so the windows are associated with my kitchen. my bedroom windows face other windows, so i can't really put plants in here unless they're super low maintenance. 
+  //my roomate told me something a couple months back, it was that black folks benefit a lot from vitamin d tablets/supplements. due to higher melanin content, we're more prone to vitamin d deficiency (i actually had a severe vitamin d deficiency for a while). 
   
+  //i do have cute curtains, i plan to switch them out though. ebay has a really cute pair i've been eyeing
+  //i can't actually open my windows. like, i can but its incredibly hard. old apartment. 
  
 
 
