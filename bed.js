@@ -4,11 +4,11 @@ let videoLayer;
 let placeholder = "PLACEHOLDER.jpg"
 
 //add new arrays
-const words = ["oftentimes, i open up the curtains of my window"]
-const words2 = ["sometimes copilot likes to fill in the blanks"]
-const words3 = ["it wants me to write whatever it thinks im thinking"]
-const words4 = ["but i don't mince my words"]
-const words5 = ["i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "i don't mince my words", "copilot is annoying as fuck"]
+const words = ["odon't mind the mess, i haven't put my clothes up"]
+const words2 = ["snoozeeeee"]
+const words3 = ["i think you can really be yourself in your room, its a sacred, private, space"]
+const words4 = ["all my faveorite things live here"]
+const words5 = ["no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress", "no sleeper sheets thats a mattress"]
 
 
 
