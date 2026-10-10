@@ -3,14 +3,6 @@
   <head>
     <script src="https://cdn.jsdelivr.net/npm/p5@2.3.2/lib/p5.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/p5.sound@0.4.1/dist/p5.sound.min.js"></script>
-    <script>
-   document.addEventListener("DOMContentLoaded", () => {
-    const audioPlayer = document.getElementById("audioPlayer");
-    const playButton = document.getElementById("playButton");
-
-    playButton.addEventListener("click", () => audioPlayer.play());
-  });
- </script>
      <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BED</title>
@@ -37,7 +29,7 @@
         pointer-events: none;
       }
       #playButton {
-        position: fixed;
+        position: relative;
         top: 400px;
         left: 40px;
         z-index: 2;
@@ -108,9 +100,24 @@
     </div>
     <main></main>
     <script src="bed.js"></script>
-        <button id="playButton">turn some music on</button>
- <audio id="audioPlayer" src=
-"A Call from My Dream.mp3"></audio>
+       <button id="playButton">turn some music on!</button>
+<audio id="audioPlayer" src="A Call from My Dream.mp3"></audio>
+
+<script>
+  const audioPlayer = document.getElementById("audioPlayer");
+  const playButton = document.getElementById("playButton");
+
+  playButton.addEventListener("click", () => {
+    if (audioPlayer.paused) {
+      audioPlayer.play();
+      playButton.textContent = "turn this shit off!";
+    } else {
+      audioPlayer.pause();
+      playButton.textContent = "turn some music on!";
+      ;
+    }
+  });
+</script>
 
   </body>
 </html>

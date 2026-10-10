@@ -4,6 +4,7 @@ let videoLayer;
 let placeholder = "PLACEHOLDER.jpg"
 
 //add new arrays
+const welcome = ["bedroom"]
 const words = ["don't mind the mess, i haven't put my clothes up"]
 const words2 = ["snoozeeeee"]
 const words3 = ["i think you can really be yourself in your room, its a sacred, private, space"]
@@ -52,9 +53,14 @@ textAlign(CENTER,CENTER)
 
 const margin = 200;
 const lineHeight = 80;
-textSize(16);
+
+textSize(30);
+text(welcome, 70, 20);
+
+
 
 for (let i = 0; i < words.length; i++) {
+textSize(16);
   text(words[i], margin, margin + 50 + i * lineHeight, width - margin * 2, lineHeight);
   text(words2[i], 100, 20 + 50 + i * lineHeight, width - margin * 2, lineHeight);
   text(words3[i], 200, 40 + 50 + i * lineHeight, width - margin * 2, lineHeight);
