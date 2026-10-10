@@ -70,7 +70,10 @@ textSize(16);
 
   
 }
-
+// if you can see this, let me know. i know you love using those damn developer tools. snooping around! in. my. ROOM!!! 
+// since u love being nosy, here: https://messyonnn.bearblog.dev/whaaa/
+// oh and this too: https://www.youtube.com/watch?v=NB8VBcgFZ5k
+// copilot keeps clocking my tea, LIKE I KNOW THE CODE IS MESSY, DAMN!!!
    
   
  
