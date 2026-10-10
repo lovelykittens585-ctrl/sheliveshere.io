@@ -1,23 +1,5 @@
-<h3>//sheliveshere</h3>
 
- <p> of course, she lives here too. same as i do.
- <br> 
-    &emsp; &emsp; &emsp; &emsp;    she has a <b><a href="index.html">front door</a></b>, <b><a href="window.html">window</a></b> and <b><a href="bed.html">bed</a></b>.
- <br>
- <br>
- she won't always live here, but that's what i'm for
- <br>
- we're roommates 
- <br>
- <br>
- <br>
-
-
-&emsp;&emsp;&emsp;&emsp; we don't see each other much though 
- </p>
- 
- <br>
-
+mind ur manners.
 
                         ↑   ↑↑↑↑↑↑↑↑↑↑    ↑↑↑↑↑↑            ↑↑ ↑     ↑↑↑↑↑         ↑↑↑↑↑↑                                 
             ↑        ↑↑↑↑↑        ↑↑↑↑↑↑↑↑↑↑      ↑↑↑↑↑↑ ↑↑↑  ↑↑  ↑      ↑↑      ↑↑↑    ↑↑                                
