@@ -15,7 +15,7 @@ const words5 = ["no sleeper sheets thats a mattress", "no sleeper sheets thats a
 
 function setup() {
 createCanvas(windowWidth, windowHeight);
- 
+  fill('white')
   textSize(20)
   frameRate(1)
   textStyle(BOLDITALIC)
