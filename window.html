@@ -14,8 +14,11 @@
       }
 
       body {
-        background: url("PLACEHOLDER.jpg") center / cover no-repeat fixed;
-      }
+            transition: background-image 0.5s ease; /* Smooth transition */ 
+            background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
       .ascii-art {
         position: absolute;
@@ -45,6 +48,23 @@ body {cursor: url("sparkling_cursor.png") 0 0, auto; }
   <body>
      <main class="body"></main>
     <div class="ascii-art">
+      <script>
+        // Array of image URLs
+        const images = [
+            'url("window_1.jpg")',
+            'url("window_2.jpg")',
+        
+        ];
+
+        // Function to set a random background image
+        function setRandomBackground() {
+            const randomIndex = Math.floor(Math.random() * images.length);
+            document.body.style.backgroundImage = images[randomIndex];
+        }
+
+        // Run the function on page load
+        window.onload = setRandomBackground;
+    </script>
  
   </head>
   <body>
