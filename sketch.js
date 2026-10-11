@@ -59,6 +59,11 @@ function draw() {
   gif = createImg("pjs_5.png");
   gif.position(700, 2000);
   gif.size(1000, 1000);
+
+  gif = createImg("pjs_3.gif");
+  gif.position(400, 1000);
+  gif.size(800, 1000);
+  
   
 
 
