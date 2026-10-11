@@ -55,4 +55,11 @@ function draw() {
     fill('yellow')
     noTint()
 
+//gif of model
+  gif = createImg("pjs_5.png");
+  gif.position(700, 2000);
+  gif.size(1000, 1000);
+  
+
+
 }

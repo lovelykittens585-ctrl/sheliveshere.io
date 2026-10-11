@@ -21,6 +21,7 @@ createCanvas(windowWidth, windowHeight);
  
   textSize(20)
   frameRate(1)
+  fill('white')
   textStyle(BOLDITALIC)
     // Set angle mode to degrees
   angleMode(DEGREES);

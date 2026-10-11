@@ -43,7 +43,7 @@ textAlign(CENTER,CENTER)
   videoLayer.image(capture, 0, 0, 700, 700);
 
   //gif of model
-  gif = createImg("pjs_7.gif");
+  gif = createImg("pj_final.png");
   gif.position(200, 700);
   gif.size(1000, 1000);
   gif.position((windowWidth - 200) / 2, 150);
